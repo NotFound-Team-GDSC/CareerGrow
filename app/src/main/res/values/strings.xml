@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">CareerGrow</string>
+    <string name="search_hint">search here</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="save_button">Save</string>
+    <string name="welcome"> Welcome Chintia </string>
+    <string name="careergrow">CareerGrow</string>
+    <string name="tagline_app">Your AI Career Preparation</string>
+
+    //register
+    <string name="title_signup_page">Complete the data below</string>
+    <string name="signup"> Register </string>
+    <string name="option_register">Belum punya akun ? Register</string>
+    <string name="option_login">Sudah punya akun ? Login</string>
+
+    //login
+    <string name="login"> Login </string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logout"> Logout </string>
+
+    //hint
+    <string name="hint_register_password"> Input your password </string>
+    <string name="hint_register_email"> Input your email </string>
+    <string name="hint_register_name"> Input your name </string>
+
+    //auth
+    <string name="retry">Try Again</string>
+    <string name="password_auth">Password cannot be less than 8 characters</string>
+    <string name="camera_failed">Failed to open the camera</string>
+    <string name="email_rule">Email must not be empty</string>
+    <string name="password_rule">Password must not be empty</string>
+
+    //menu
+    <string name="menu_setting"> Settings </string>
+    <string name="menu_refresh">Refresh Story</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_maps">Map</string>
+
+    <string name="default_web_client_id"></string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+
+    //cardview
+    <string name="current_date">14 Jan 2024</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    //findjob
+    <string name="tv_recommendation">Rekomendasi</string>
+    <string name="tv_changes">Peluang Lainnya</string>
+    <string name="media_company">media_company</string>
+
+    <string name="company1">Gojek</string>
+    <string name="company2">Tokopedia</string>
+    <string name="company3">Shopee</string>
+    <string name="company4">Dicoding</string>
+    <string name="company5">Traveloka</string>
+
+    <string name="position1">Mobile Developer</string>
+    <string name="position2">Software Engineering</string>
+    <string name="position3">Backend Developer</string>
+    <string name="position4">Data Analyst</string>
+    <string name="position5">Product Manager</string>
+    <string name="position6">Senior Programmer</string>
+    <string name="position7">UI/UX Designer</string>
+
+    <string name="company_logo1">company_logo1</string>
+    <string name="company_logo2">company_logo2</string>
+    <string name="company_logo3">company_logo3</string>
+
+    //connection
+    <string name="your_connection">your_connection</string>
+    <string name="item_friend1">Chintia</string>
+    <string name="item_friend2">Mevani</string>
+    <string name="item_friend3">Faisal</string>
+    <string name="item_friend4">Teguh</string>
+    <string name="item_friend5">Liam</string>
+    <string name="item_friend6">Citra</string>
+    <string name="item_friend7">Sarah</string>
+
+    <string name="btn_follow">follow</string>
+
+    <string name="empty_label"></string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_milestone">milestone</string>
+    <string name="certificate">Sertifikat Pembelajaran Dicoding Indonesia</string>
+    <string name="btn_continue">Lanjutkan</string>
+    <string name="modul_expert">Belajar Android Tingkat Mahir</string>
+    <string name="tv_modul_expert">Android Developer Expert</string>
+    <string name="modul_intermediate">Belajar Android Tingkat Lanjut</string>
+    <string name="tv_modul_intermediate">Android Developer Intermediate</string>
+    <string name="modul_beginner">Belajar Android Bagi Pemula</string>
+    <string name="tv_modul_beginner">Android Developer Beginner</string>
+    <string name="your_achievement">Your Achievement</string>
+    <string name="_50">50%</string>
+    <string name="your_progress">Your Progress</string>
+    <string name="continue_your_course">Continue Your Course</string>
+    <string name="certificate_image">certificate image</string>
+    <string name="image_milestone_profile">image milestone profile</string>
+    <string name="milestone_username">"@"Saraaahhh</string>
+    <string name="status_milestone_profile">Mobile Developer || Undergraduate Student of Muhammadiyah Bandung University</string>
+    <string name="fab_edit_profile">floating action button untuk edit profile</string>
+    <string name="continue_progressBtn">continue progress</string>
+    <string name="progress_status">Progress Status</string>
+    <string name="milestone_progress">2/4 milestone</string>
+    <string name="background_profile">background profile image</string>
+    <string name="ic_search">search</string>
+
+</resources>

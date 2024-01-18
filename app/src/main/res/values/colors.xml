@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="orange">#FF5B22</color>
+    <color name="bg_button_save">#3C78EE</color>
+    <color name="bg_button_logout">#C70039</color>
+    <color name="logout_color">#FDFDFD</color>
+
+    //pallette-ui
+    <color name="blue">#3066BE</color>
+    <color name="blue_light">#B9D6F2</color>
+    <color name="blacked">#12130F</color>
+    <color name="light_orange">#F4AC45</color>
+    <color name="dark_orange">#F58F29</color>
+</resources>
